@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BlossomGateway-Common" />
+        <module name="BlossomGateway-Config-Center-Nacos-Impl" />
+        <module name="BlossomGateway-Userservice" />
+        <module name="BlossomGateway-Dubbo-Service" />
+        <module name="BlossomGateway-Register-Center" />
+        <module name="BlossomGateway-Http" />
+        <module name="BlossomGateway-Register-Center-Nacos-Impl" />
+        <module name="BlossomGateway-Register-Center-Api" />
+        <module name="BlossomGateway-Config-Center-Api" />
+        <module name="BlossomGateway-Dubbo-Interface" />
+        <module name="BlossomGateway-Core" />
+        <module name="BlossomGateway-Client" />
+        <module name="BlossomGateway-Dubbo-Web" />
+        <module name="BlossomGateway-Config-Center" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BlossomGateway-UserService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BlossomGateway-Client" options="" />
+      <module name="BlossomGateway-Common" options="" />
+      <module name="BlossomGateway-Config-Center" options="" />
+      <module name="BlossomGateway-Config-Center-Api" options="" />
+      <module name="BlossomGateway-Config-Center-Nacos-Impl" options="" />
+      <module name="BlossomGateway-Core" options="" />
+      <module name="BlossomGateway-Dubbo" options="" />
+      <module name="BlossomGateway-Http" options="" />
+      <module name="BlossomGateway-Register-Center" options="" />
+      <module name="BlossomGateway-Register-Center-Api" options="" />
+      <module name="BlossomGateway-Register-Center-Nacos-Impl" options="" />
+      <module name="BlossomGateway-UserService" options="-parameters" />
+    </option>
+  </component>
+</project>

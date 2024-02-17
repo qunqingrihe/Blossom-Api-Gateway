@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlossomGateway-Config-Center/BlossomGateway-Config-Center-Api" vcs="" />
+    <mapping directory="$PROJECT_DIR$/BlossomGateway-Config-Center/BlossomGateway-Config-Center-Nacos-Impl" vcs="" />
+    <mapping directory="$PROJECT_DIR$/BlossomGateway-Register-Center/BlossomGateway-Register-Center-Api" vcs="" />
+    <mapping directory="$PROJECT_DIR$/BlossomGateway-Register-Center/BlossomGateway-Register-Center-Nacos-Impl" vcs="" />
+  </component>
+</project>
