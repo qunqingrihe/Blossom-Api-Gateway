@@ -23,6 +23,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/BlossomGateway-UserService/pom.xml" />
+        <option value="$PROJECT_DIR$/BlossomGateway-Userservice/pom.xml" />
       </set>
     </option>
   </component>

@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BlossomGateway-Common" />
         <module name="BlossomGateway-Config-Center-Nacos-Impl" />
-        <module name="BlossomGateway-Userservice" />
         <module name="BlossomGateway-Dubbo-Service" />
         <module name="BlossomGateway-Register-Center" />
         <module name="BlossomGateway-Http" />
@@ -23,6 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BlossomGateway-Userservice" target="1.7" />
       <module name="BlossomGateway-UserService" target="17" />
     </bytecodeTargetLevel>
   </component>
