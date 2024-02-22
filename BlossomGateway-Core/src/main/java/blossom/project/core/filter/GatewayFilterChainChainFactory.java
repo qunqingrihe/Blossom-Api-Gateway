@@ -9,7 +9,6 @@ import org.apache.commons.lang3.StringUtils;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
-
 @Slf4j
 public class GatewayFilterChainChainFactory implements FilterChainFactory{
     private static class SinletonHolder {

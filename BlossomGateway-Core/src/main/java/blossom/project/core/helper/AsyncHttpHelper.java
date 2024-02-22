@@ -11,7 +11,7 @@ public class AsyncHttpHelper {
         private static final AsyncHttpHelper INSTANCE = new AsyncHttpHelper();
     }
     private AsyncHttpHelper() {}
-    private static AsyncHttpHelper getInstance() {
+    public static AsyncHttpHelper getInstance() {
         return singletonHolder.INSTANCE;
     }
     private AsyncHttpClient asyncHttpClient;
